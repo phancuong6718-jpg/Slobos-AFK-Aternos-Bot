@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "halfmoon.aternos.host",
-    "port": 22333,
+    "ip": "VanillaChill-XJsn.aternos.me:22333",
+    "port": ,
     "version": "1.21.11",
     "try-creative": false
   },

@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "VanillaChill-XJsn.aternos.me:22333",
-    "port": ,
+    "port": 22333,
     "version": "1.21.11",
     "try-creative": false
   },

@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "VanillaChill-XJsn.aternos.me:22333",
+    "ip": "VanillaChill-XJsn.aternos.me",
     "port": 22333,
     "version": "1.21.11",
     "try-creative": false
